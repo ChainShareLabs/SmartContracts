@@ -65,7 +65,9 @@ contract Escrow {
     
 
 ```
->📝This smart contract in Solidity is an `escrow` contract that facilitates a transaction between a 👤 buyer, a 👤 seller and a ⚖️ referee. The contract passes through three states: 🕓 awaiting payment, 🚚 awaiting delivery and ✅ complete. The buyer sends a payment 💰 to the contract, then once delivery has been confirmed by the buyer or referee, the seller receives payment. The contract allows you to check the current state of the transaction with the "getState()" function.
+>📝This smart contract in Solidity is an **`escrow`** contract that facilitates a transaction between a 👤 buyer, a 👤 seller and a ⚖️ referee. The contract passes through three states: 🕓 awaiting payment, 🚚 awaiting delivery and ✅ complete. The buyer sends a payment 💰 to the contract, then once delivery has been confirmed by the buyer or referee, the seller receives payment. The contract allows you to check the current state of the transaction with the "getState()" function.
 
->📝Ce contrat intelligent en Solidity est un contrat d'entiercement (`escrow`) qui facilite une transaction entre un 👤 acheteur, un 👤 vendeur et un ⚖️ arbitre. Le contrat passe par trois états : 🕓 en attente de paiement, 🚚 en attente de livraison et ✅ terminé. L'acheteur envoie un 💰 paiement au contrat, puis une fois la livraison confirmée par l'acheteur ou l'arbitre, le vendeur reçoit le paiement. Le contrat permet de vérifier l'état actuel de la transaction avec la fonction "getState()".
+<br>
+
+>📝Ce contrat intelligent en Solidity est un contrat d'entiercement **`escrow`** qui facilite une transaction entre un 👤 acheteur, un 👤 vendeur et un ⚖️ arbitre. Le contrat passe par trois états : 🕓 en attente de paiement, 🚚 en attente de livraison et ✅ terminé. L'acheteur envoie un 💰 paiement au contrat, puis une fois la livraison confirmée par l'acheteur ou l'arbitre, le vendeur reçoit le paiement. Le contrat permet de vérifier l'état actuel de la transaction avec la fonction "getState()".
 

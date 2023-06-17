@@ -72,8 +72,10 @@ contract BuyMeacoffe {
 ```
 
 
->📝The "BuyMeacoffe" smart contract is written in Solidity and allows users to buy ☕️ coffee in exchange for a certain amount of Ether 💰. The contract records the total number of coffees purchased, the available Ether balance and the owner's address. Users can buy coffee by sending a message and respecting a minimum cost. Upon purchase, the contract stores the coffee information in a data structure and transfers the corresponding amount to the contract owner. Once the purchase has been made, an event is issued to inform the participants. 😊
+>📝The **`BuyMeacoffe`** smart contract is written in Solidity and allows users to buy ☕️ coffee in exchange for a certain amount of Ether 💰. The contract records the total number of coffees purchased, the available Ether balance and the owner's address. Users can buy coffee by sending a message and respecting a minimum cost. Upon purchase, the contract stores the coffee information in a data structure and transfers the corresponding amount to the contract owner. Once the purchase has been made, an event is issued to inform the participants. 😊
 
->📝Le contrat intelligent "`BuyMeacoffe`" est écrit en Solidity et permet aux utilisateurs d'acheter du café ☕️ en échange d'une certaine quantité d'Ether 💰. Le contrat enregistre le nombre total de cafés achetés, le solde Ether disponible et l'adresse du propriétaire. Les utilisateurs peuvent acheter du café en envoyant un message et en respectant un coût minimum. Lors de l'achat, le contrat enregistre les informations sur le café dans une structure de données et transfère le montant correspondant au propriétaire du contrat. Une fois l'achat effectué, un événement est émis pour notifier les participants. 😊
+<br>
+
+>📝Le contrat intelligent **`BuyMeacoffe`** est écrit en Solidity et permet aux utilisateurs d'acheter du café ☕️ en échange d'une certaine quantité d'Ether 💰. Le contrat enregistre le nombre total de cafés achetés, le solde Ether disponible et l'adresse du propriétaire. Les utilisateurs peuvent acheter du café en envoyant un message et en respectant un coût minimum. Lors de l'achat, le contrat enregistre les informations sur le café dans une structure de données et transfère le montant correspondant au propriétaire du contrat. Une fois l'achat effectué, un événement est émis pour notifier les participants. 😊
 
 

@@ -73,8 +73,10 @@ contract SplitPay {
 }
 
 ```
->📝 This smart contract in Solidity is called "SplitPay". It allows payments to be split between several members. Each member must make a minimum deposit specified when the contract is created. 💰 When a member submits a payment, their address is recorded, and the amount is added to the total balance. Members can then use this balance to pay bills by entering the beneficiary's address and the amount to be paid. The balance is deducted from the amount paid and transferred to the beneficiary. 💸
+>📝 This smart contract in Solidity is called **`SplitPay`**. It allows payments to be split between several members. Each member must make a minimum deposit specified when the contract is created. 💰 When a member submits a payment, their address is recorded, and the amount is added to the total balance. Members can then use this balance to pay bills by entering the beneficiary's address and the amount to be paid. The balance is deducted from the amount paid and transferred to the beneficiary. 💸
 
->📝 Ce contrat intelligent en Solidity s'appelle "SplitPay". Il permet de diviser les paiements entre plusieurs membres. Chaque membre doit effectuer un dépôt minimum spécifié lors de la création du contrat. 💰 Lorsqu'un membre soumet un paiement, son adresse est enregistrée, et le montant est ajouté au solde total. Les membres peuvent ensuite utiliser cette balance pour payer des factures en fournissant l'adresse du bénéficiaire et le montant à payer. La balance est déduite du montant payé et transférée au bénéficiaire. 💸
+<br>
+
+>📝 Ce contrat intelligent en Solidity s'appelle **`SplitPay`**. Il permet de diviser les paiements entre plusieurs membres. Chaque membre doit effectuer un dépôt minimum spécifié lors de la création du contrat. 💰 Lorsqu'un membre soumet un paiement, son adresse est enregistrée, et le montant est ajouté au solde total. Les membres peuvent ensuite utiliser cette balance pour payer des factures en fournissant l'adresse du bénéficiaire et le montant à payer. La balance est déduite du montant payé et transférée au bénéficiaire. 💸
 
 
