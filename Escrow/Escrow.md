@@ -71,3 +71,5 @@ contract Escrow {
 
 >📝Ce contrat intelligent en Solidity est un contrat d'entiercement **`escrow`** qui facilite une transaction entre un 👤 acheteur, un 👤 vendeur et un ⚖️ arbitre. Le contrat passe par trois états : 🕓 en attente de paiement, 🚚 en attente de livraison et ✅ terminé. L'acheteur envoie un 💰 paiement au contrat, puis une fois la livraison confirmée par l'acheteur ou l'arbitre, le vendeur reçoit le paiement. Le contrat permet de vérifier l'état actuel de la transaction avec la fonction "getState()".
 
+
+ [🔙](../README.md)

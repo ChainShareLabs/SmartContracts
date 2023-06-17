@@ -80,3 +80,4 @@ contract SplitPay {
 >📝 Ce contrat intelligent en Solidity s'appelle **`SplitPay`**. Il permet de diviser les paiements entre plusieurs membres. Chaque membre doit effectuer un dépôt minimum spécifié lors de la création du contrat. 💰 Lorsqu'un membre soumet un paiement, son adresse est enregistrée, et le montant est ajouté au solde total. Les membres peuvent ensuite utiliser cette balance pour payer des factures en fournissant l'adresse du bénéficiaire et le montant à payer. La balance est déduite du montant payé et transférée au bénéficiaire. 💸
 
 
+ [🔙](../README.md)

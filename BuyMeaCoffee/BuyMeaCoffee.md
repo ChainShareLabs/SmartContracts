@@ -79,3 +79,5 @@ contract BuyMeacoffe {
 >📝Le contrat intelligent **`BuyMeacoffe`** est écrit en Solidity et permet aux utilisateurs d'acheter du café ☕️ en échange d'une certaine quantité d'Ether 💰. Le contrat enregistre le nombre total de cafés achetés, le solde Ether disponible et l'adresse du propriétaire. Les utilisateurs peuvent acheter du café en envoyant un message et en respectant un coût minimum. Lors de l'achat, le contrat enregistre les informations sur le café dans une structure de données et transfère le montant correspondant au propriétaire du contrat. Une fois l'achat effectué, un événement est émis pour notifier les participants. 😊
 
 
+
+ [🔙](../README.md)
