@@ -10,6 +10,7 @@ This repository contains smart contracts written in Solidity, designed to be dep
 
 3. 🔄 [SplitPay](./SplitPay/SplitPay.md): Smart contract enabling payments to be shared fairly 💸 between several participants.
 
+4. 💬 [Comments](./Comments/Comments.md) : This intelligent contract allows users to add comments on various subjects 
 <br>
 
 >**`Disclaimer:`** Make sure you fully understand the implications and security risks associated with using smart contracts before deploying them in a real production environment⚠️🔒.
