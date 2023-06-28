@@ -40,7 +40,7 @@ contract Comments {
 }
 ```
 
->📝 The intelligent **`Comments`** contract allows users to add comments on different topics. Each comment is recorded with a unique identifier, a subject, the creator's address, a message and the date of creation. Comments are stored in a data structure for each subject. When a user adds a comment, it is logged and an "AddComment" event is issued. Other users can view the comments for a given topic by calling the "getComments" function. 😊✍️💬
+>📝The smart contract **`Comments`** allows users to add comments on various topics. Each comment is recorded with a unique identifier, a subject, the creator's address, a message and the date of creation. Comments are stored in a data structure for each subject. When a user adds a comment, it is logged and an "AddComment" event is issued. Other users can view the comments for a given topic by calling the "getComments" function. 😊✍️💬
 
 
 [🔙](../README.md)
