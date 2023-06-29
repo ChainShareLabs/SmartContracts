@@ -4,7 +4,7 @@
 This repository contains smart contracts written in Solidity, designed to be deployed on an Ethereum-compatible blockchain. The smart contracts included are as follows:
 
 
-1. ☕️ [BuyMeacoffe](./Escrow/Escrow.md): Smart contract for coffee purchases or donations 💰 secure payments.
+1. ☕️ [BuyMeacoffe](./BuyMeaCoffee/BuyMeaCoffee.md): Smart contract for coffee purchases or donations 💰 secure payments.
 
 2. 🤝 [Escrow](./Escrow/Escrow.md): Smart contract acting as a trusted third party for secure transactions.
 
